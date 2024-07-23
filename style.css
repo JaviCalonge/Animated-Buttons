@@ -3,6 +3,22 @@ body {
   background-color: #222;
 }
 
+.enlace {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+img {
+  background-color: #444;
+  margin: 12px;
+}
+
+span, a {
+  color: #bbb;
+}
+
+
 .wrapper {
  display: flex;
  flex-direction: column;
